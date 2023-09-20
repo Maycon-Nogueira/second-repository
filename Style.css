@@ -1,0 +1,18 @@
+.div_card{
+    width: 600px;
+    height: fit-content;
+    background-color: rgb(142, 228, 29);
+    border-radius: 25px;
+    border: solid 4px #13b96c;
+    margin:25px;
+}
+ .Bola{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(99, 4, 102);
+    border-radius: 50px;
+}
+ .texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 30px;
+}
